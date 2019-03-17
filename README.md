@@ -3,10 +3,12 @@
  		<dt>Financing platform for startups </dt>
  	</dl>
 </p>
--------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
 There are no online financing platform for startups to get funded.
 We have built an online financing platform <i>"PRARAMBH"</i> which aggregates all the investment vehicles for startups.
+
+---------------------------------------------------------------------------------------------------------------------
 
 ## Features
 * Both startups and funders can register.
