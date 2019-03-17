@@ -21,4 +21,4 @@ We have built an online financing platform <i><b>"PRARAMBH"</b>></i> which aggre
 
 ---------------------------------------------------------------------------------------------------------------------
 ## Installations
-                  Refer requirements.txt
+* Refer requirements.txt
