@@ -1,2 +1,6 @@
-
-<img width="300px" src="C:\Users\amreshchandra\Documents\Desktop\Prarambh\startup\Prarambh.jpg" alt="Prarambh-logo" style="max-width:100%;">
+ <center><h1 style="color: blue">PR<span style="color: orange">ARAMBH</span></h1>
+ 	<dl>
+ 		<dt>Financing platform for startups</dt>
+ 	</dl>
+ </center>
+ 
