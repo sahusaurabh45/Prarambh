@@ -1,6 +1,5 @@
-<div style="text-align: center;">
+
 ![Prarambh](prarambh.jpg)
-</div>
 
  <dl>
  		<dt>Financing platform for startups </dt>
@@ -30,3 +29,12 @@ We have built an online financing platform <i><b>"PRARAMBH"</b>></i> which aggre
 ---------------------------------------------------------------------------------------------------------------------
 ## UML DIAGRAM
 ![ uml ](image.jpg)
+
+---------------------------------------------------------------------------------------------------------------------
+## Screenshots
+![ uml ](image2.jpg)
+![ uml ](image3.jpg)
+![ uml ](image4.jpg)
+![ uml ](image5.jpg)
+![ uml ](image6.jpg)
+
