@@ -17,8 +17,13 @@ We have built an online financing platform <i><b>"PRARAMBH"</b>></i> which aggre
 * Startups can apply for multiple funders.
 * Early prediction for startups to get funded.
 * Documents are secured through <b>BLOCK-CHAIN</b> mechanism.
+* Funders can filtrate the applications (startups) 
 * Users can see the status of approval for their startups.
 
 ---------------------------------------------------------------------------------------------------------------------
 ## Installations
 * Refer requirements.txt
+
+---------------------------------------------------------------------------------------------------------------------
+## UML DIAGRAM
+![ uml ](image.jpg)
