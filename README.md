@@ -18,3 +18,7 @@ We have built an online financing platform <i>"PRARAMBH"</i> which aggregates al
 * Early prediction for startups to get funded.
 * Documents are secured through <b>BLOCK-CHAIN</b> mechanism.
 * Users can see the status of approval for their startups.
+
+---------------------------------------------------------------------------------------------------------------------
+## Installations
+  Refer requirements.txt
