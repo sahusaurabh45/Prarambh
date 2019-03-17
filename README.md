@@ -7,7 +7,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 There are no online financing platform for startups to get funded.
-We have built an online financing platform <i>"PRARAMBH"</i> which aggregates all the investment vehicles for startups.
+We have built an online financing platform <i><b>"PRARAMBH"</b>></i> which aggregates all the investment vehicles for startups.
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ We have built an online financing platform <i>"PRARAMBH"</i> which aggregates al
 
 ---------------------------------------------------------------------------------------------------------------------
 ## Installations
-  Refer requirements.txt
+                  Refer requirements.txt
