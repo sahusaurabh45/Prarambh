@@ -32,9 +32,9 @@ We have built an online financing platform <i><b>"PRARAMBH"</b>></i> which aggre
 
 ---------------------------------------------------------------------------------------------------------------------
 ## Screenshots
-![ uml ](image2.jpg)
-![ uml ](image3.jpg)
-![ uml ](image4.jpg)
-![ uml ](image5.jpg)
-![ uml ](image6.jpg)
+![ uml ](image2.jpeg)
+![ uml ](image3.jpeg)
+![ uml ](image4.jpeg)
+![ uml ](image5.jpeg)
+![ uml ](image6.jpeg)
 
